@@ -55,13 +55,13 @@ async function start(file) {
   if (isRunning) return;
   isRunning = true;
 
-  say('The KillzN\nBot', {
+  say('The Puntoagu\nBot', {
     font: 'chrome',
     align: 'center',
     gradient: ['red', 'magenta'],
   });
 
-  say(`Bot creado por KillzN`, {
+  say(`Bot creado por Puntoagu`, {
     font: 'console',
     align: 'center',
     gradient: ['red', 'magenta'],
